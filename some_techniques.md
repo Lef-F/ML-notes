@@ -16,3 +16,7 @@ Samples that have not been used during model training.
 ## Out-Of-Bag-Error (OOBE)
 
 Calculating the trained model's error by using samples that have not been used for its training.
+
+## Sub-sampling with replacement (aka Bootstrapping)
+
+Pick a sample each time from the whole population.
