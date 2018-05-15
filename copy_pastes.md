@@ -14,3 +14,5 @@ Some Git magic
 ### To fix Windows line endings ´^M´
 
 Run ´git config --global core.autocrlf true´ to ignore the Windows line endings and keep Unix
+
+**Warning:** [It crashes some `oh-my-zsh` modules](https://github.com/robbyrussell/oh-my-zsh/issues/1363#issuecomment-11144048)
